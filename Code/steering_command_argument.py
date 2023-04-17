@@ -26,7 +26,7 @@ car.steering = args.value
 
 # formerly: car.steering= 0.3 or whatever, but now a dynamic args.value contains the 
 # value fed from the data stream
-print = ("The command servo value is: ", args.value )
+print = ("The command servo value is: ", args.value)
 
 #example of a command line argument (CLA) two parts:flag (1 or 2 dashes), value
 #  python3 steering_command_argument.py --value 0.3
