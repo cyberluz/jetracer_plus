@@ -3,8 +3,9 @@
  
 # Learning how to use python to control the JetRacer
 # This implementation includes an input argument parser
-
+#This is the final working program
 #4-21-23 version
+
 # Importing required libraries
 # note "jetracer.nvidia_racecar" library is only on robot
 from jetracer.nvidia_racecar import NvidiaRacecar
