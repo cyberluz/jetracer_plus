@@ -19,3 +19,5 @@ parser.add_argument('--value', type=float, required=True)
 args = parser.parse_args()
 
 car.steering = args.value
+
+print=("The command servo is ", args.value)
