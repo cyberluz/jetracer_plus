@@ -9,7 +9,6 @@ from jetracer.nvidia_racecar import NvidiaRacecar
 
 import argparse
 
-
 car = NvidiaRacecar()
 
 parser = argparse.ArgumentParser()
